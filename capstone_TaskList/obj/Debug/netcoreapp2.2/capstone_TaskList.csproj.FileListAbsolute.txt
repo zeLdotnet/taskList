@@ -1,0 +1,11 @@
+C:\Users\zeL\grandCircus\labs\grandRepo\capstone_TaskList\capstone_TaskList\bin\Debug\netcoreapp2.2\capstone_TaskList.deps.json
+C:\Users\zeL\grandCircus\labs\grandRepo\capstone_TaskList\capstone_TaskList\bin\Debug\netcoreapp2.2\capstone_TaskList.runtimeconfig.json
+C:\Users\zeL\grandCircus\labs\grandRepo\capstone_TaskList\capstone_TaskList\bin\Debug\netcoreapp2.2\capstone_TaskList.runtimeconfig.dev.json
+C:\Users\zeL\grandCircus\labs\grandRepo\capstone_TaskList\capstone_TaskList\bin\Debug\netcoreapp2.2\capstone_TaskList.dll
+C:\Users\zeL\grandCircus\labs\grandRepo\capstone_TaskList\capstone_TaskList\bin\Debug\netcoreapp2.2\capstone_TaskList.pdb
+C:\Users\zeL\grandCircus\labs\grandRepo\capstone_TaskList\capstone_TaskList\obj\Debug\netcoreapp2.2\capstone_TaskList.csprojAssemblyReference.cache
+C:\Users\zeL\grandCircus\labs\grandRepo\capstone_TaskList\capstone_TaskList\obj\Debug\netcoreapp2.2\capstone_TaskList.csproj.CoreCompileInputs.cache
+C:\Users\zeL\grandCircus\labs\grandRepo\capstone_TaskList\capstone_TaskList\obj\Debug\netcoreapp2.2\capstone_TaskList.AssemblyInfoInputs.cache
+C:\Users\zeL\grandCircus\labs\grandRepo\capstone_TaskList\capstone_TaskList\obj\Debug\netcoreapp2.2\capstone_TaskList.AssemblyInfo.cs
+C:\Users\zeL\grandCircus\labs\grandRepo\capstone_TaskList\capstone_TaskList\obj\Debug\netcoreapp2.2\capstone_TaskList.dll
+C:\Users\zeL\grandCircus\labs\grandRepo\capstone_TaskList\capstone_TaskList\obj\Debug\netcoreapp2.2\capstone_TaskList.pdb
